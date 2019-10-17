@@ -56,7 +56,7 @@ Could not find a cake matching this query.
 
 ```javascript
 {
-    "message": "Ain't no cake like that."
+    "message": "Ain't no cake like that.  This is a test message"
 }
 ```
 {% endapi-method-response-example %}
